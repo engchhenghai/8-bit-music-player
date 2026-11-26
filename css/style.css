@@ -424,6 +424,26 @@ button:hover, .btn:hover {
   background-color: #27272e;
 }
 
+.track-table a:link {
+  color: #9be63c;
+  font-weight: bold;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.track-table a:visited {
+  color: #7fbf32;
+}
+
+.track-table a:hover {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+.track-table a:active {
+  color: #6ea825;
+}
+
 footer {
   background-color: #25252b;
   border-top: 2px solid #3c3c46;
